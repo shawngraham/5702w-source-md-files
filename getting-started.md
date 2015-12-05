@@ -42,4 +42,4 @@ There is a developing ecosystem of digital artefacts that form an increasingly m
 Now, make sure you read the sections on [crafting](crafting.html), [open access workflows](openaccess.html), and [future proofing your research](futureproof.html).
 
 Then, please see the details regarding 
-[Assessment](assessment.html) | [Final Project](final-project.html) | [Weekly Schedule, Readings, and ProgHist tutorials](weekly.html) | [Some Digital History Projects in the Wild](someprojects.md)
+[Assessment](assessment.html) | [Final Project](final-project.html) | [Weekly Schedule, Readings, and ProgHist tutorials](weekly.html) | [Some Digital History Projects in the Wild](someprojects.html)
