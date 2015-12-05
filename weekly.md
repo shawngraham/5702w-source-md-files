@@ -8,10 +8,12 @@ tags: [instructions, syllabus, assessment]
 
 ![](http://programminghistorian.org/gallery/sustainable-authorship-in-plain-text-using-pandoc-and-markdown.png)
 
+[A Library of Readings](library.html)
+
 ## General pattern
 Each week, we will begin Monday at 9 to allow for childcare arrangements. You are welcome to arrive at 8.30 as per the official schedule, but I will not begin until 9. Consequently, I will also not be stopping for the remainder of the scheduled time. Feel free to bring croissants, coffee, toast, etc. Scrambled eggs are to be avoided as they are messy.
 
-Each week, a designated person will take us through their engagement with a particular [Programming Historian](http://programminghistorian.org/lessons/) tutorial, as indicated below. There will be readings to support this engagement; I will discuss these individually with you once we divy up the work. Some will highlight uses of the approach, or perhaps issues with the approach, or could've usefully been improved by the approach... or... or... or. I will expect you to **also** clearly articulate connections in other research you've done, read, or courses you're taking/have taken.
+Each week, a designated person will take us through their engagement with a particular [Programming Historian](http://programminghistorian.org/lessons/) tutorial, as indicated below. There will be [readings to support this engagement](library.html); I will discuss these individually with you once we divy up the work. Some will highlight uses of the approach, or perhaps issues with the approach, or could've usefully been improved by the approach... or... or... or. I will expect you to **also** clearly articulate connections in other research you've done, read, or courses you're taking/have taken (this alone is an important habit to cultivate.) You can also bring [digital history projects in the wild](someprojects.html) into the discussion.
 
 (**nb** Even if it's not _your_ week to present, it will be a richer experience if you've given the tutorial a shot as well.)
 
@@ -102,7 +104,6 @@ Playing the games of digital history
 Feedback on your games of digital history
 
 _It is my hope that we can perhaps publish your final projects with_ The Programming Historian _or other suitable venue. As you will discover, text-based tutorials only go so far... and the process of translating how we_ do _digital history into a medium of representation for history should be illuminating..._
-
 
 
 
