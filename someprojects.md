@@ -12,38 +12,40 @@ As you explore these, note the date of creation, the platform or tools used, and
 
 <iframe src="https://archive.org/embed/howdidtheymakethat" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-...and this [presentation in a similar vein](http://slides.com/tiffchan/hdtmt#/), by Tiffany Chan. 
+...and this [presentation in a similar vein](http://slides.com/tiffchan/hdtmt#/), by Tiffany Chan, regarding undergraduate projects: 
+
+<iframe src="http://slides.com/tiffchan/hdtmt#/" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Big Ticket Projects
 
-A 'Stunning' Love Letter to Viral Texts - [http://loveletter.viraltexts.org/]
+A 'Stunning' Love Letter to Viral Texts - [http://loveletter.viraltexts.org/](http://loveletter.viraltexts.org/)
 
-Viral Texts - [viraltexts.org]
+Viral Texts - [http://viraltexts.org](http://viraltexts.org)
 
-Valley of the Shadow - [http://valley.lib.virginia.edu/]
+Valley of the Shadow - [http://valley.lib.virginia.edu/](http://valley.lib.virginia.edu/)
 
-Webarchives.ca [http://webarchives.ca/]
+Webarchives.ca [http://webarchives.ca/](http://webarchives.ca/)
 
-Scissors and Paste [http://www.scissorsandpaste.net/]
+Scissors and Paste [http://www.scissorsandpaste.net/](http://www.scissorsandpaste.net/)
 
-Great Unsolved Mysteries in Canadian History [http://canadianmysteries.ca/en/index.php]
+Great Unsolved Mysteries in Canadian History [http://canadianmysteries.ca/en/index.php](http://canadianmysteries.ca/en/index.php)
 
-Six Degrees of Francis Bacon [http://sixdegreesoffrancisbacon.com/]
+Six Degrees of Francis Bacon [http://sixdegreesoffrancisbacon.com/](http://sixdegreesoffrancisbacon.com/)
 
-Kindred Britain http://kindred.stanford.edu/
+Kindred Britain [http://kindred.stanford.edu/](http://kindred.stanford.edu/)
+
+Quantifying Kissinger [http://blog.quantifyingkissinger.com/](http://blog.quantifyingkissinger.com/)
 
 ## Projects by Students
 
-Minecrafted Vimy [https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25568-vimy]
+Minecrafted Vimy [on github](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25568-vimy)
 
-Minecrafted Rideau [https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25572-rideau]
+Minecrafted Rideau [on github](https://github.com/shawngraham/hist3812a/tree/master/fall-2014-student-projects/mc25572-rideau)
 
-The Molasses Flood [http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/1919-molasses-flood]
+The Molasses Flood [http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/1919-molasses-flood](http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/1919-molasses-flood)
 
-Boston Harbour Islands [http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/boston-harbor-islands]
+Boston Harbour Islands [http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/boston-harbor-islands](http://omekasites.northeastern.edu/DeepMap/neatline/fullscreen/boston-harbor-islands)
 
-Quantifying Kissinger [http://blog.quantifyingkissinger.com/]
+Hearing Childhood in Ottawa South [http://ottawalifestories.wix.com/hearingchildhood#!introduction/cjg9](http://ottawalifestories.wix.com/hearingchildhood#!introduction/cjg9)
 
-Hearing Childhood in Ottawa South [http://ottawalifestories.wix.com/hearingchildhood#!introduction/cjg9]
-
-Searching for Residential Schools [http://ryanpickering.github.io/Residential-School-Online-Response/startbootstrap-grayscale-1.0.3/]
+Searching for Residential Schools [http://ryanpickering.github.io/Residential-School-Online-Response/startbootstrap-grayscale-1.0.3/](http://ryanpickering.github.io/Residential-School-Online-Response/startbootstrap-grayscale-1.0.3/)

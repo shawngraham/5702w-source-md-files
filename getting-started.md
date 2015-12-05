@@ -37,8 +37,9 @@ A body of public reflections on the process of doing digital history; a reflecti
 
 There is a developing ecosystem of digital artefacts that form an increasingly more important part of one’s scholarly persona. You need to think carefully about how you present yourself online, and if you aren’t already doing so, crafting a niche for yourself there. You may wish to obtain a domain name of your own; I would recommend [Reclaim Hosting](http://reclaimhosting.com) as a place to start. For the purposes of this course, you will be setting up hosting for your course work via a free account with [github.com](http://github.com)
 
+### Now Read On...
 
 Now, make sure you read the sections on [crafting](crafting.html), [open access workflows](openaccess.html), and [future proofing your research](futureproof.html).
 
 Then, please see the details regarding 
-[Assessment](assessment.html) | [Final Project](final-project.html) | [Weekly Schedule, Readings, and ProgHist tutorials](weekly.html)
+[Assessment](assessment.html) | [Final Project](final-project.html) | [Weekly Schedule, Readings, and ProgHist tutorials](weekly.html) | [Some Digital History Projects in the Wild](someprojects.md)
