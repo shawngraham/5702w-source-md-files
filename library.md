@@ -36,6 +36,8 @@ Joyce, Rosemary A. and Ruth E. Tringham [Feminist Adventures in Hypertext Journa
 
 Nowviskie, Bethany [“Evaluating Collaborative Digital Scholarship (Or, Where Credit is Due),” Journal of Digital Humanities 1 (4)](http://journalofdigitalhumanities.org/1-4/evaluating-collaborative-digital-scholarship-by-bethany-nowviskie/)
 
+Owens, Trevor [Digital Sources & Digital Archives: The Evidentiary Basis of Digital History (Draft)](http://www.trevorowens.org/2015/12/digital-sources-digital-archives-the-evidentiary-basis-of-digital-history-draft/)
+
 Ramsay, Stephen [On Building](http://stephenramsay.us/text/2011/01/11/on-building/)
 
 Ramsay, Stephen [The Digital Naif](http://stephenramsay.us/2015/11/19/the-digital-naif/)
