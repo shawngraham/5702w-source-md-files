@@ -8,6 +8,13 @@ Traditionally, one would sort these to go into the various weeks of the seminar.
 Again in no discernable citation style, I give you, 
 
 ### A Library of Readings
+
+Robin Sloan ['The Pickle: A Conversation About Making Digital Books'](https://medium.com/message/the-pickle-a-conversation-about-making-digital-books-8242360378e4#.2tjwvwosr)
+
+[The Pickle Index](http://www.thepickleindex.com/)
+
+[Pry](http://prynovella.com/) 
+
 [Expanding Communities of Practice, Journal of Digital Humanities 2.2 2013](http://journalofdigitalhumanities.org/2-2/expanding-communities-of-practice/)
 
 Ardito, Carmelo et al. [Re-experiencing History in Archaeological Parks by Playing a Mobile Augmented Reality Game. On the Move to Meaningful Internet Systems 2007: OTM 2007 Workshops Lecture Notes in Computer Science Volume 4805, 2007, pp 357-366](http://link.springer.com/content/pdf/10.1007%2F978-3-540-76888-3_58.pdf)
