@@ -33,7 +33,7 @@ The sequence of lessons we will go through mirrors the progression of a digital 
 
 ####January 11:
 
- **Because of an MA examination in which I am participating and cannot reschedule**, this session will be led by Mr. Rob Blades and Mr. Shawn Anctil. Rob will help you set up your online notebooks, which are required in this class, as well as your github accounts. Rob and Shawn have worked on many digital projects, some with me, and they can give you an honest accounting of what I am like to work with, and how I tend to work. I would ask also that you take the opportunity to discuss as a class the course website and syllabus materials; Shawn A will moderate this discussion. As a class, I would like you to collaboratively come up with a list of 
+ **Because of an MA examination in which I am participating and cannot reschedule**, this session will be led by Mr. Rob Blades and Mr. Shawn Anctil. Rob will help you set up your online notebooks, which are required in this class, as well as your github accounts. Rob and Shawn have worked on many digital projects, some with me, and they can give you an honest accounting of what I am like to work with, and how I tend to work. I would ask also that you take the opportunity to discuss as a class the course website and syllabus materials; Shawn A (actually, Rob) will moderate this discussion. As a class, I would like you to collaboratively come up with a list of 
 
     - the things you like concerning the course plan, 
     - the things that concern you, 
@@ -60,7 +60,7 @@ Hands on with [Twine](http://twinery.org); hands on with [Inform7](http://inform
 #### February 1:
 
 - [Automated Downloading with Wget](http://programminghistorian.org/lessons/automated-downloading-with-wget)
-- [Datamining the Internet Archive](Data Mining the Internet Archive Collection)
+- [Datamining the Internet Archive](http://programminghistorian.org/lessons/data-mining-the-internet-archive)
 
 #### February 8:
 
